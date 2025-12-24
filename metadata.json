@@ -1,0 +1,7 @@
+{
+  "name": "StoryVoice AI",
+  "description": "An interactive story reader that automatically analyzes characters in a story and assigns them unique AI voices for a cinematic reading experience.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
